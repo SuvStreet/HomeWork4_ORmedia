@@ -1,0 +1,292 @@
+@media(max-width: 1940px){
+    .application .right_text p {
+        padding-right: 35%;
+    }
+    .application .left_text p {
+        padding-right: 19%;
+    }
+    .container5{
+        background-position-y: -57%;
+    }
+    .container5_1 {
+        background-position-y: 196%;
+    }
+}
+
+@media(max-width: 1840px){
+    .container5 {
+        background-position-y: -43%;
+    }
+    .container5_1 {
+        background-position-y: 163%;
+    }
+    .container6 {
+        margin-top: -3%;
+    }
+}
+
+@media(max-width: 1740px){
+    .application .right_text p {
+        padding-right: 27%;
+    }
+    .application .left_text p {
+        padding-right: 12%;
+    }
+    .container5 {
+        background-position-y: -35%;
+    }
+    .application .content_right p {
+        padding-right: 21%;
+    }
+    .application .content_left p {
+        padding-right: 26%;
+    }
+}
+
+@media(max-width: 1640px){
+    .container5 {
+        background-position-y: -26%;
+    }
+}
+
+@media(max-width: 1600px){
+    .application .right_text p {
+        padding-right: 22%;
+    }
+    .application .left_text p {
+        padding-right: 7%;
+    }
+    .container5_1 {
+        background-position-y: 178%;
+        background-size: 40%;
+        background-position-x: 117%;
+    }
+    .text p {
+        padding-top: 100px;
+    }
+    .container6 {
+        margin-top: -6%;
+    }
+}
+
+@media(max-width: 1565px){
+    .application .conten_text p {
+        padding-right: 3%;
+    }
+    .text p {
+        padding-top: 50px;
+    }
+}
+
+@media(max-width: 1515px){
+    .application .right_text p {
+        padding-right: 18%;
+    }
+    .application .conten_text p {
+        padding-right: 20%;
+    }
+    .application .content_right p {
+        padding-right: 15%;
+    }
+    .application .content_left p {
+        padding-right: 20%;
+    }
+    .application .conten_text {
+        width: 50%;
+        padding-top: 11%;
+        padding-left: 56%;
+    }
+    .container6 {
+        height: 540px;
+    }
+}
+
+@media(max-width: 1400px){
+    .application .right_text h2 {
+        padding-top: 14%;
+    }
+    .application .right_text p {
+        padding-right: 12%;
+    }
+    .application .left_text h2 {
+        padding-top: 13%;
+        padding-left: 16%;
+    }
+    .application .left_text p {
+        padding-left: 16%;
+    }
+    .application .content_right p {
+        padding-right: 8%;
+    }
+    .application .content_left p {
+        padding-right: 13%;
+    }
+    .application .conten_text {
+        padding-top: 9%;
+    }
+    .text p {
+        padding-top: 20px;
+    }
+}
+
+@media(max-width: 1230px){
+    .application .right_text p {
+        padding-right: 1%;
+    }
+    .application .left_text p {
+        padding-right: 0;
+    }
+    .application .conten_text {
+        padding-left: 50%;
+    }
+    .application .conten_text p {
+        padding-right: 1%;
+    }
+    .container6 {
+        background-size: 150%;
+        background-position-x: 37%;
+    }
+    .application .conten_text h2 {
+        font-size: 40px;
+    }
+    .application .conten_text p {
+        padding-right: 26%;
+    }
+    .application .conten_text {
+        padding-left: 58%;
+    }
+    .text p {
+        padding-top: 100px;
+    }
+}
+
+@media(max-width: 1024px){
+    .cards .item {
+        width: 45%;
+    }
+    .application .app img{
+        max-width: 100%;
+    }
+    .application .right_text h2 {
+        padding-top: 10%;
+        padding-bottom: 4%;
+        font-size: 40px;
+    }
+    .application .right_text p{
+        padding-right: 15%;
+    }
+    .application .left_text h2{
+        padding-top: 10%;
+        padding-bottom: 4%;
+        font-size: 40px;
+        padding-left: 15%;
+    }
+    .application .left_text p{
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+    .container5{
+        background-size: 41%;
+        background-position-y: -16%;
+    }
+    .application .content_right h2 {
+        padding-top: 43%;
+        font-size: 40px;
+        padding-left: 17%;
+    }
+    .application .content_right p {
+        padding-right: 0;
+        padding-left: 18%;
+    }
+    .application .content_left h2{
+        font-size: 40px;
+        padding-top: 48%;
+    }
+
+
+
+
+
+
+    .application .app_screen img {
+        max-width: 100%;
+        padding-left: 100%;
+}
+
+@media(max-width: 768px){
+    .logo{
+        width: 206px;
+        height: 206px;
+        top: -103px;
+        left: calc(50% - 103px);
+    }
+    .logo .name{
+        margin-top: 115px;
+        font-size: 36px;
+    }
+    .logo .desc{
+        font-size: 12px;
+    }
+    .burger{
+        margin-top: 30px;
+    }
+    header{
+        height: 100px;
+    }
+}
+
+@media(max-width: 600px){
+    .cards .item{
+        margin: 0;
+        width: 100%;
+    }
+    .application .app, .application .content_right{
+        width: 100%;
+        text-align: center;
+    }
+    .application .content_right{
+        position: static;
+    }
+    .application .content_right h2{
+        padding-top: 0;
+        padding-bottom: 40px;
+    }
+    .container5{
+        background-position-y: -5%;
+    }
+    .burger{
+        width: 45px;
+        height: 45px;
+    }
+    .burger .line:first-child{
+        margin-top: 12px;
+    }
+    .search{
+        line-height: 45px;
+    }
+    .container2{
+        background-size: cover;
+        height: 100vh;
+        min-height: 568px;
+    }
+}
+
+@media(max-width: 425px){
+    .application .app{
+        overflow: hidden; 
+    }
+    .application .app img{
+        max-width: 122%;
+        margin-left: -11%;
+    }
+    .logo{
+        width: 150px;
+        height: 150px;
+        top: -75px;
+        left: calc(50% - 75px);
+    }
+    .logo .name{
+        margin-top: 80px;
+        font-size: 30px;
+    }
+}
