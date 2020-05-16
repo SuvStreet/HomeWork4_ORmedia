@@ -1,0 +1,193 @@
+/** Style container4 **/
+.container4 {
+  background-color: #f7f8fb;
+}
+
+.container4 .application {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container4 .application .snow_road, .container4 .application .right_text, .container4 .application .left_text, .container4 .application .logs {
+  width: 50%;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  line-height: 0;
+}
+
+.container4 .application .snow_road img, .container4 .application .logs img {
+  max-width: 100%;
+}
+
+.container4 .application .right_text h2 {
+  padding: 0px 0 40px 120px;
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.container4 .application .right_text p {
+  font-size: 16px;
+  padding-left: 124px;
+  padding-right: 33%;
+  color: #d2d5d8;
+  line-height: 1.9;
+}
+
+.container4 .application .left_text h2 {
+  padding-bottom: 40px;
+  font-size: 48px;
+  padding-left: 26.5%;
+  font-weight: 600;
+}
+
+.container4 .application .left_text p {
+  font-size: 16px;
+  padding-left: 26.9%;
+  padding-right: 19%;
+  color: #d2d5d8;
+  line-height: 1.9;
+}
+
+/** Style container5 **/
+.container5 {
+  background-image: url("../images/snowflake.png");
+  background-repeat: no-repeat;
+  background-size: 32%;
+  background-position-x: 5%;
+  background-position-y: -25%;
+}
+
+.container5 .application, .container5_1 .application {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container5 .application .app, .container5 .application .content_right {
+  width: 50%;
+}
+
+.container5 .application .app, .container5 .application .app_screen, .container5_1 .application .app, .container5_1 .application .app_screen {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 160px 0 120px 0;
+}
+
+.container5 .application .app img, .container5 .application .app_screen img, .container5_1 .application .app img, .container5_1 .application .app_screen img {
+  max-width: 100%;
+}
+
+.container5 .application .content_right {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.container5 .application .content_right h2, .container5 .application .content_left h2, .container5_1 .application .content_right h2, .container5_1 .application .content_left h2 {
+  font-size: 48px;
+  color: #49a9ff;
+  font-weight: 400;
+  margin-left: 34px;
+}
+
+.container5 .application .content_right p, .container5 .application .content_left p, .container5_1 .application .content_right p, .container5_1 .application .content_left p {
+  font-size: 16px;
+  padding-right: 20%;
+  padding-top: 50px;
+  color: #d2d5d8;
+  line-height: 1.9;
+  margin-left: 38px;
+}
+
+.container5_1 {
+  background-image: url("../images/snowflake2.png");
+  background-repeat: no-repeat;
+  background-size: 35%;
+  background-position-x: 100%;
+  background-position-y: 225px;
+}
+
+.container5_1 .application .app_screen {
+  margin: 0;
+  padding-bottom: 160px;
+}
+
+.container5_1 .application .content_left, .container5_1 .application .app_screen {
+  width: 50%;
+}
+
+.container5_1 .application .content_left {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  margin-top: -160px;
+  margin-left: 147px;
+}
+
+/** Style container7 **/
+.container7 {
+  text-align: center;
+}
+
+.container7 .text h4 {
+  font-weight: 400;
+  font-size: 18px;
+  color: #d2d5d8;
+  padding-top: 135px;
+}
+
+.container7 .text h2 {
+  font-weight: 600;
+  font-size: 48px;
+  padding-top: 18px;
+}
+
+.container7 .btn {
+  text-decoration: none;
+  color: #43a9ff;
+  font-size: 14px;
+  font-weight: bold;
+  -webkit-box-shadow: 0 0 15px 20px #f4f7fa;
+          box-shadow: 0 0 15px 20px #f4f7fa;
+  margin-top: 88px;
+  margin-bottom: 10px;
+  display: inline-block;
+  padding: 21px 42px;
+  border-radius: 30px;
+  background-color: #ffffff;
+}
+
+.container7 .btn:hover {
+  -webkit-box-shadow: 0 0 15px 20px #a8d8ff;
+          box-shadow: 0 0 15px 20px #a8d8ff;
+  -webkit-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
+
+.container7 .btn:focus {
+  -webkit-box-shadow: 0 0 15px 20px #7fb7f0;
+          box-shadow: 0 0 15px 20px #7fb7f0;
+}
+
+footer {
+  background-image: url("../images/footer.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  height: 1140px;
+  max-width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=sass_style.css.map */

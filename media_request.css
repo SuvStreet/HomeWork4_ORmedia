@@ -1,292 +1,489 @@
-@media(max-width: 1940px){
-    .application .right_text p {
-        padding-right: 35%;
-    }
-    .application .left_text p {
-        padding-right: 19%;
-    }
-    .container5{
-        background-position-y: -57%;
-    }
-    .container5_1 {
-        background-position-y: 196%;
-    }
-}
-
-@media(max-width: 1840px){
-    .container5 {
-        background-position-y: -43%;
-    }
-    .container5_1 {
-        background-position-y: 163%;
-    }
-    .container6 {
-        margin-top: -3%;
-    }
-}
-
-@media(max-width: 1740px){
-    .application .right_text p {
+@media (max-width: 1840px) {
+    .container4 .application .right_text p {
         padding-right: 27%;
     }
-    .application .left_text p {
-        padding-right: 12%;
+    .container4 .application .left_text p {
+        padding-right: 14%;
     }
     .container5 {
-        background-position-y: -35%;
-    }
-    .application .content_right p {
-        padding-right: 21%;
-    }
-    .application .content_left p {
-        padding-right: 26%;
-    }
-}
-
-@media(max-width: 1640px){
-    .container5 {
-        background-position-y: -26%;
-    }
-}
-
-@media(max-width: 1600px){
-    .application .right_text p {
-        padding-right: 22%;
-    }
-    .application .left_text p {
-        padding-right: 7%;
+        background-position-y: -18%;
     }
     .container5_1 {
-        background-position-y: 178%;
-        background-size: 40%;
-        background-position-x: 117%;
-    }
-    .text p {
-        padding-top: 100px;
-    }
-    .container6 {
-        margin-top: -6%;
+        background-size: 30%;
+        background-position-y: 300px;
     }
 }
 
-@media(max-width: 1565px){
-    .application .conten_text p {
-        padding-right: 3%;
-    }
-    .text p {
-        padding-top: 50px;
-    }
-}
-
-@media(max-width: 1515px){
-    .application .right_text p {
-        padding-right: 18%;
-    }
-    .application .conten_text p {
-        padding-right: 20%;
-    }
-    .application .content_right p {
-        padding-right: 15%;
-    }
-    .application .content_left p {
-        padding-right: 20%;
-    }
-    .application .conten_text {
-        width: 50%;
-        padding-top: 11%;
-        padding-left: 56%;
-    }
-    .container6 {
-        height: 540px;
-    }
-}
-
-@media(max-width: 1400px){
-    .application .right_text h2 {
-        padding-top: 14%;
-    }
-    .application .right_text p {
-        padding-right: 12%;
-    }
-    .application .left_text h2 {
-        padding-top: 13%;
-        padding-left: 16%;
-    }
-    .application .left_text p {
-        padding-left: 16%;
-    }
-    .application .content_right p {
-        padding-right: 8%;
-    }
-    .application .content_left p {
-        padding-right: 13%;
-    }
-    .application .conten_text {
-        padding-top: 9%;
-    }
-    .text p {
-        padding-top: 20px;
-    }
-}
-
-@media(max-width: 1230px){
-    .application .right_text p {
-        padding-right: 1%;
-    }
-    .application .left_text p {
-        padding-right: 0;
-    }
-    .application .conten_text {
-        padding-left: 50%;
-    }
-    .application .conten_text p {
-        padding-right: 1%;
-    }
-    .container6 {
-        background-size: 150%;
-        background-position-x: 37%;
-    }
-    .application .conten_text h2 {
-        font-size: 40px;
-    }
-    .application .conten_text p {
-        padding-right: 26%;
-    }
-    .application .conten_text {
-        padding-left: 58%;
-    }
-    .text p {
-        padding-top: 100px;
-    }
-}
-
-@media(max-width: 1024px){
-    .cards .item {
-        width: 45%;
-    }
-    .application .app img{
-        max-width: 100%;
-    }
-    .application .right_text h2 {
-        padding-top: 10%;
-        padding-bottom: 4%;
-        font-size: 40px;
-    }
-    .application .right_text p{
-        padding-right: 15%;
-    }
-    .application .left_text h2{
-        padding-top: 10%;
-        padding-bottom: 4%;
-        font-size: 40px;
-        padding-left: 15%;
-    }
-    .application .left_text p{
-        padding-left: 15%;
-        padding-right: 15%;
-    }
-    .container5{
-        background-size: 41%;
+@media (max-width: 1740px) {
+    .container5 {
         background-position-y: -16%;
     }
-    .application .content_right h2 {
-        padding-top: 43%;
-        font-size: 40px;
-        padding-left: 17%;
+    .container5_1 {
+        background-position-y: 325px;
     }
-    .application .content_right p {
-        padding-right: 0;
-        padding-left: 18%;
-    }
-    .application .content_left h2{
-        font-size: 40px;
-        padding-top: 48%;
-    }
-
-
-
-
-
-
-    .application .app_screen img {
-        max-width: 100%;
-        padding-left: 100%;
 }
 
-@media(max-width: 768px){
-    .logo{
+@media (max-width: 1640px) {
+    .container5 {
+        background-position-y: -14%;
+    }
+    .container5_1 {
+        background-position-y: 365px;
+    }
+    .container5_1 .application .content_left p {
+        padding-right: 12%;
+    }
+}
+
+@media (max-width: 1540px) {
+    .container4 .application .right_text p {
+        padding-right: 13%;
+    }
+    .container4 .application .left_text p {
+        padding-left: 124px;
+        padding-right: 13%;
+    }
+    .container4 .application .left_text h2 {
+        padding-left: 120px;
+    }
+    .container5 {
+        background-position-y: -15%;
+        background-size: 37%;
+    }
+    .container5 .application .content_right p {
+        padding-right: 16%;
+    }
+    .container5_1 {
+        background-size: 34%;
+        background-position-y: 385px;
+    }
+    .container5_1 .application .content_left {
+        margin-left: 83px;
+    }
+    .container5_1 .application .content_left p {
+        padding-right: 10%;
+    }
+}
+
+@media (max-width: 1345px) {
+    .container4 .application .right_text h2,
+    .container4 .application .left_text h2 {
+        padding-left: 60px;
+    }
+    .container4 .application .right_text p,
+    .container4 .application .left_text p {
+        padding-right: 9%;
+        padding-left: 64px;
+    }
+    .container5 .application .content_right p {
+        padding-right: 3%;
+    }
+    .container5_1 {
+        background-position-y: 460px;
+    }
+    .container5_1 .application .content_left p {
+        padding-right: 0;
+    }
+    .container6 .content .conten_text {
+        padding-left: 60px;
+    }
+    .container6 .content .conten_text h2 {
+        font-size: 38px;
+    }
+    .container6 .content .conten_text p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1240px){
+    .container4 .application .right_text p, 
+    .container4 .application .left_text p {
+        padding-right: 1%;
+    }
+    .container5 {
+        background-position-y: -12%;
+    }
+    .container5 .application .app {
+        margin-top: 80px;
+    }
+    .container5 .application .content_right h2 {
+        margin-left: 26px;
+    }
+    .container5 .application .content_right p {
+        margin-left: 30px;
+        padding-right: 0;
+    }
+    .container5_1 {
+        background-size: 38%;
+        background-position-y: 350px;
+    }
+    .container5_1 .application .content_left {
+        margin-left: 35px;
+    }
+    .container5_1 .application .app_screen {
+        padding-bottom: 80px;
+    }
+}
+
+@media (max-width: 1140px) {
+    .container4 .application .right_text h2,
+    .container4 .application .left_text h2 {
+        font-size: 36px;
+    }
+    .container4 .application .right_text p,
+    .container4 .application .left_text p {
+        font-size: 13px;
+        padding-right: 11%;
+    }
+    .container5 {
+        background-position-y: -13%;
+        background-size: 37%;
+    }
+    .container5 .application .content_right h2 {
+        font-size: 44px;
+        margin-left: 40px;
+    }
+    .container5 .application .content_right p {
+        font-size: 13px;
+        margin-left: 44px;
+        padding-right: 25px;
+    }
+    .container5_1 .application .content_left {
+        margin-left: 0px;
+    }
+    .container5_1 .application .content_left h2 {
+        font-size: 44px;
+    }
+    .container5_1 .application .content_left p {
+        font-size: 13px;
+        padding-right: 6%;
+    }
+    
+}
+
+@media (max-width: 1024px) {
+    .container2 {
+        margin-top: 70px;
+    }
+    .container3 .cards .item {
+        width: 45%;
+    }
+    .container4 .application .right_text h2,
+     .container4 .application .left_text h2 {
+        font-size: 30px;
+    }
+    .container4 .application .right_text p, 
+    .container4 .application .left_text p {
+        font-size: 9px;
+        padding-right: 28%;
+    }
+    .container5 {
+        background-position-y: -12%;
+    }
+    .container5 .application .content_right h2 {
+        font-size: 33px;
+    }
+    .container5 .application .content_right p {
+        font-size: 10px;
+        padding-right: 16%;
+    }
+    .container5_1 .application .content_left h2 {
+        font-size: 33px;
+    }
+    .container5_1 .application .content_left p {
+        font-size: 10px;
+        padding-right: 18%;
+    }
+    .container6 .content .conten_text h2 {
+        font-size: 29px;
+    }
+    .container6 .content .conten_text p {
+        font-size: 10px;
+    }
+    .container5 .application .content_right h2 {
+        font-size: 33px;
+    }
+    footer {
+        height: 100vh;
+        width: 100vw;
+        min-height: 800px;
+        background-position-x: 80%;
+    }
+}
+
+@media (max-width: 800px) {
+    .container4 .application .right_text h2, 
+    .container4 .application .left_text h2 {
+        font-size: 27px;
+        padding-bottom: 20px;
+    }
+
+    .container4 .application .right_text p, 
+    .container4 .application .left_text p {
+        font-size: 9px;
+        padding-right: 7%;
+    }
+    .container5 .application .content_right p {
+        padding-right: 0;
+    }
+    .container5 .application .app {
+        margin-bottom: 60px;
+    }
+    .container5_1 .application .content_left p {
+        padding-right: 0;
+    }
+    .container6 .content .conten_text h2 {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .container6 .content .conten_text p {
+        font-size: 7px;
+    }
+    .container7 .text h4 {
+        font-size: 15px;
+        padding-top: 70px;
+    }
+    .container7 .text h2 {
+        font-size: 37px;
+    }
+    .container7 .btn {
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        height: 160px;
+    }
+    .container1 .logo {
+        box-shadow: 0 0 25px 30px #f6f9fc;
+    }
+    .container1 .burger {
+        box-shadow: 0 0 15px 10px #f4f7fa;
+    }
+    .container1 .logo {
         width: 206px;
         height: 206px;
         top: -103px;
         left: calc(50% - 103px);
     }
-    .logo .name{
+    .container1 .logo .name {
         margin-top: 115px;
         font-size: 36px;
     }
-    .logo .desc{
+    .container1 .logo .desc {
         font-size: 12px;
     }
-    .burger{
+    .container1 .burger {
         margin-top: 30px;
     }
-    header{
+    .container1 header {
         height: 100px;
+    }
+    .container2 {
+        margin-top: 50px;
+    }
+    .container5_1 {
+        background-position-y: 325px;
+    }
+    .container4 .application .right_text h2, 
+    .container4 .application .left_text h2 {
+        padding-left: 20px;
+    }
+    .container4 .application .right_text p, 
+    .container4 .application .left_text p {
+        padding-left: 24px;
+        padding-right: 10%;
     }
 }
 
-@media(max-width: 600px){
-    .cards .item{
-        margin: 0;
-        width: 100%;
-    }
-    .application .app, .application .content_right{
-        width: 100%;
-        text-align: center;
-    }
-    .application .content_right{
-        position: static;
-    }
-    .application .content_right h2{
-        padding-top: 0;
-        padding-bottom: 40px;
-    }
-    .container5{
-        background-position-y: -5%;
-    }
-    .burger{
+@media (max-width: 600px) {
+    .container1 .burger {
         width: 45px;
         height: 45px;
     }
-    .burger .line:first-child{
+    .container1 .burger .line:first-child {
         margin-top: 12px;
     }
-    .search{
+    .container1 .search {
         line-height: 45px;
     }
-    .container2{
+    .container2 {
         background-size: cover;
         height: 100vh;
-        min-height: 568px;
+        min-height: 800px;
+    }
+    .container2 p{
+        padding: 28px 30px 0;
+    }
+    .container2 .btn {
+        margin-top: 30px;
+    }
+    .container3 p {
+        margin-top: 20px;
+    }
+    .container3 .cards .item {
+        margin: 0;
+        width: 100%;
+    }
+    .container3 .btn {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    .container4 .application {
+        flex-direction: column;
+    }
+    .container4 .application .snow_road, 
+    .container4 .application .right_text, 
+    .container4 .application .left_text, 
+    .container4 .application .logs {
+        width: 100%;
+    } 
+    .container4 .application .right_text, 
+    .container4 .application .left_text{
+        text-align: center;
+    }
+    .container4 .application .right_text h2, 
+    .container4 .application .left_text h2 {
+        font-size: 48px;
+        padding: 60px 30px 30px 30px;
+    }
+    .container4 .application .right_text p, 
+    .container4 .application .left_text p {
+        font-size: 16px;
+        padding: 30px 25px 60px 25px;
+    }
+    .container4 .reverse {
+        flex-direction: column-reverse;
+    }
+    .container5 {
+        background-size: 100%;
+        background-position-x: 0;
+        background-position-y: 0;
+    }
+    .container5 .application {
+        flex-direction: column;
+    }
+    .container5 .application .app,
+    .container5 .application .content_right,
+    .container5_1 .application .content_left,
+    .container5_1 .application .app_screen {
+        width: 100%;
+    }
+    .container5 .application .app {
+        margin: 40px 0;
+    }
+    .container5 .application .content_right,
+    .container5_1 .application .content_left {
+        text-align: center;
+    }
+    .container5 .application .content_right h2,
+    .container5_1 .application .content_left h2 {
+        font-size: 44px;
+        margin-left: 0;
+    }
+    .container5 .application .content_right p,
+    .container5_1 .application .content_left p {
+        font-size: 16px;
+        margin-left: 0;
+        padding-bottom: 40px;
+    }
+    .container5_1 {
+        background-size: 100%;
+        background-position-y: 10px;
+    }
+    .container5_1 .application .content_left h2 {
+        padding-top: 40px;
+    }
+    .container5_1 .application .content_left p {
+        padding-right: 0;
+    }
+    .container5_1 .application .app_screen {
+        padding-bottom: 160px;
+    }
+    .container5_1 .application {
+        flex-direction: column-reverse;
+    }
+    .container6 .content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+    .container6 .content .img_cont6 {
+        width: 100%;
+    }
+    .container6 .content .conten_text {
+        text-align: center;
+        padding-left: 0;
+        width: 100%;
+    }
+    .container6 .content .conten_text h2 {
+        font-size: 48px;
+        padding-bottom: 35px;
+        padding-top: 30%;
+        padding-top: 5%;
+    }
+    .container6 .content .conten_text p {
+        font-size: 16px;
+    }
+    .container6 .content .conten_text .text_black {
+        padding-top: 5%;
+    }
+    .container7 .text h2 {
+        font-size: 28px;
+    }
+    .container7 .text h4 {
+        font-size: 13px;
     }
 }
 
-@media(max-width: 425px){
-    .application .app{
-        overflow: hidden; 
+@media (max-width: 450px) {
+    header {
+        height: 100px;
     }
-    .application .app img{
-        max-width: 122%;
-        margin-left: -11%;
+    .container2 {
+        margin-top: 40px;
     }
-    .logo{
+    .container2 h2 {
+        font-size: 28px;
+    }
+    .container3 h2 {
+        font-size: 28px;
+    }
+    .container4 .application .right_text h2, 
+    .container4 .application .left_text h2 {
+        font-size: 37px;
+        padding: 30px 30px 15px 30px;
+    }
+    .container4 .application .right_text p, 
+    .container4 .application .left_text p {
+        font-size: 14px;
+        padding: 15px 25px 30px 25px;
+    }
+    .container6 .content .conten_text p {
+        font-size: 13px;
+    }
+    .container6 .content .conten_text h2 {
+        padding-bottom: 10px;
+    }
+    .container7 .text h4 {
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 425px) {
+    .container1 .logo {
         width: 150px;
         height: 150px;
         top: -75px;
         left: calc(50% - 75px);
     }
-    .logo .name{
+    .container1 .logo .name {
         margin-top: 80px;
         font-size: 30px;
+    }
+    .container1 .logo .desc {
+        font-size: 8px;
     }
 }
