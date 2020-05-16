@@ -17,6 +17,9 @@
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
+}
+
+.container4 .application .snow_road, .container4 .application .logs {
   line-height: 0;
 }
 
